@@ -20,6 +20,10 @@ body, html {
     padding: 20px;
 }
 
-.test {
-    margin-top: -30px;
+.logo {
+    border-bottom: 1px solid white;
+}
+
+.description {
+    margin-top: -25px;
 }
