@@ -1,0 +1,14 @@
+body {
+    background-color: yellow;
+}
+
+.bg-1 {
+
+    background: radial-gradient(#387989, #001f3f);
+}
+
+.bg-2 {
+ 
+    background: radial-gradient(#DDDDDD, #AAAAAA);
+}
+
