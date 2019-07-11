@@ -1,5 +1,5 @@
 body {
-    background-color: yellow;
+    background: url('../img/bg.jpg');
 }
 
 .bg-1 {
@@ -10,5 +10,14 @@ body {
 .bg-2 {
  
     background: radial-gradient(#DDDDDD, #AAAAAA);
+}
+
+.logo {
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+p {
+    color: white;
 }
 
