@@ -5,11 +5,13 @@ body {
 .bg-1 {
 
     background: radial-gradient(#387989, #001f3f);
+    border-right: 5px dashed #AAAAAA;
 }
 
 .bg-2 {
  
     background: radial-gradient(#DDDDDD, #AAAAAA);
+    border-left: 5px dashed #001f3f;
 }
 
 .logo {
